@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="758" height="435" viewBox="0 0 758 435">
+  <defs>
+    <clipPath id="clip-_1">
+      <rect width="758" height="435"/>
+    </clipPath>
+  </defs>
+  <g id="_1" data-name="1" clip-path="url(#clip-_1)">
+    <g id="Group_1" data-name="Group 1" transform="translate(-205 -298)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="225" height="231" transform="translate(470 299)" fill="#c2ef7e"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="152" height="22" transform="translate(583 343)" fill="#313131"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="40" height="22" transform="translate(695 426)" fill="#313131"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="40" height="22" transform="translate(430 343)" fill="#313131"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="152" height="22" transform="translate(430 426)" fill="#313131"/>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="152" height="22" transform="translate(583 382)" fill="#313131"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="40" height="22" transform="translate(695 465)" fill="#313131"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="40" height="22" transform="translate(430 382)" fill="#313131"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="152" height="22" transform="translate(430 465)" fill="#313131"/>
+    </g>
+    <text id="ColorMagic" transform="translate(-7 401)" fill="#313131" font-size="128" font-family="LibreBaskerville-Regular, Libre Baskerville"><tspan x="0" y="0">ColorMagic</tspan></text>
+  </g>
+</svg>
